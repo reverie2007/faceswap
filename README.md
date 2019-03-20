@@ -1,7 +1,11 @@
 **Notice:** This repository is not operated or maintained by /u/deepfakes. Please read the explanation below for details.
+
+**注意：** 本仓库不是由 /u/deepfakes 运营或保持。 请阅读以下详细说明。
 # deepfakes_faceswap
 
 Faceswap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.
+
+faceswap 是一个使用深度学习技术的工具，用来在图片或视频中识别和更换脸孔。
 ![Screenshots](https://i.imgur.com/nWHFLDf.jpg)
 
 <p align="center">
@@ -10,6 +14,8 @@ Faceswap is a tool that utilizes deep learning to recognize and swap faces in pi
 </p>
 
 Make sure you check out [INSTALL.md](INSTALL.md) before getting started.
+
+开始前请先阅读 INSTALL.md
 
 - [Manifesto](#manifesto)
 - [How To setup and run the project](#how-to-setup-and-run-the-project)
